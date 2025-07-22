@@ -23,7 +23,7 @@ A simple project for experimenting with image processing and manipulation.
     python main.py
     ```
 4. You can use image given in this repository
-   ![Test Image](test image.jpg)
+   ![Test Image](test_image.jpg)
 
    
 ## Folder Structure

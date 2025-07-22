@@ -22,12 +22,18 @@ A simple project for experimenting with image processing and manipulation.
     ```
     python main.py
     ```
+4. You can use image given in this repository
+   ![Test Image](test image.jpg)
 
+   
 ## Folder Structure
 
 - `main.py` - Entry point of the application
-- `images/` - Sample images for testing
+- `requirements.txt` - Necessary libraries
 - `README.md` - Project documentation
+- `images/` - Sample images for testing
+  
+
 
 ## License
 
